@@ -1,5 +1,6 @@
-## Project Description
+## Hi there 👋 I'm Tung I'm an iOS developer and I'm passionate not just writting application but GOOD application, good architecture application.
 
-* [live example](https://learning-zone.github.io/website-templates/startbootstrap-clean-blog-1.0.2)
-
-![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/startbootstrap-clean-blog-1.0.2.png "startbootstrap-clean-blog-1.0.2")
+### About Me
+* I'm a self taught iOS Developer and I've been working as an iOS developer over 2.5 years now.
+* I love to share my knowledge by writting blogs. Check out my website here: https://learnwithtung.github.io
+* And explore my repos to know more.
